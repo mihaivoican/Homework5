@@ -27,4 +27,17 @@ public class Homework5Exercises {
         }
         return nrImpare;
     }
+
+    //3- scrieti o functie care primeste un sir de numere intregi si un alt numar intreg. Returnati toate numerele mai mari decat numarul primit
+    public static int[] returnNoGreater(int[] sirIntregi, int nrDeTestat){
+        int[] resultArray =new int[sirIntregi.length];
+        int size=0;
+        for (int i=0; i<sirIntregi.length; i++){
+            if(sirIntregi[i] < nrDeTestat){
+                resultArray[i]=sirIntregi[i];
+            }
+        }
+        //vezi ultim site pt redim
+        resultArray.srinkSize();
+    }
 }
