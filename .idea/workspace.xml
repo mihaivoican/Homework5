@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a786bbea-8ece-4212-8916-a2639c233801" name="Changes" comment="al 2lea commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="a786bbea-8ece-4212-8916-a2639c233801" name="Changes" comment="cu 3 exercitii">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homework5Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework5Exercises.java" afterDir="false" />
     </list>
@@ -74,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661342887477</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cu 3 exercitii">
+      <created>1661424671504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661424671504</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +97,28 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primul commit" />
     <MESSAGE value="al 2lea commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="al 2lea commit" />
+    <MESSAGE value="cu 3 exercitii" />
+    <option name="LAST_COMMIT_MESSAGE" value="cu 3 exercitii" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Homework5Exercises.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Homework5Exercises.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Homework5Exercises.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
