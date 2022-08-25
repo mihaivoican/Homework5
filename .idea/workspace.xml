@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a786bbea-8ece-4212-8916-a2639c233801" name="Changes" comment="primul commit">
+    <list default="true" id="a786bbea-8ece-4212-8916-a2639c233801" name="Changes" comment="al 2lea commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homework5Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework5Exercises.java" afterDir="false" />
     </list>
@@ -29,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/won8/curs5/Homework5"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/won8/curs5/Homework5&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Homework5Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework5Exercises" />
@@ -66,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661340796009</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="al 2lea commit">
+      <created>1661342887477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661342887477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primul commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primul commit" />
+    <MESSAGE value="al 2lea commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="al 2lea commit" />
   </component>
 </project>
