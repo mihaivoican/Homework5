@@ -5,6 +5,7 @@ public class Homework5Exercises {
     static int[] sirIntregi = {12, 33, 10, 100};
 
     public static void main(String[] args) {
+        //some comments
         System.out.println("Ex 1");
         System.out.println(sumaNumere(sirIntregi));
         System.out.println("Ex 2");
