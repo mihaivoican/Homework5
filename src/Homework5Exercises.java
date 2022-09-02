@@ -6,6 +6,7 @@ public class Homework5Exercises {
 
     public static void main(String[] args) {
         //some comments
+        //another comment
         System.out.println("Ex 1");
         System.out.println(sumaNumere(sirIntregi));
         System.out.println("Ex 2");
