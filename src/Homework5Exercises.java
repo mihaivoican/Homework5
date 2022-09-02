@@ -16,6 +16,7 @@ public class Homework5Exercises {
         System.out.println(adaugDonatii(100000));
         System.out.println("Ex 5");
         System.out.println(adaugDonatii2(1000000, 2));
+        //later comment
         System.out.println("Ex 6");
         spargeFraza("Aseara am fost la pasure. A fost frumos pana la un punct. Apoi a venit ploaia. Am fugit repede la masini. Asta a fost escapada de duminica.");
     }
