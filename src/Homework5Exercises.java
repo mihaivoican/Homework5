@@ -5,6 +5,7 @@ public class Homework5Exercises {
     static int[] sirIntregi = {12, 33, 10, 100};
 
     public static void main(String[] args) {
+        //test
         //some comments
         //another comment
         System.out.println("Ex 1");
